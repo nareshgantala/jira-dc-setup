@@ -5,7 +5,7 @@ This repository contains a **reference Jira Data Center setup and supporting mat
 The purpose of this repository is **not** to demonstrate production infrastructure or DevOps best practices, but to provide a **clear baseline for reasoning about Jira DC environments before Cloud migration**.
 
 ---
-<img width="1536" height="1024" alt="ChatGPT Image Jan 1, 2026, 06_59_34 PM" src="https://github.com/user-attachments/assets/3b457d71-6baf-48db-a5a8-4739f115dc1d" />
+<img width="1536" height="1024" alt="Image Jan 1, 2026, 06_59_34 PM" src="https://github.com/user-attachments/assets/eac758d9-c7d7-4f81-8810-7b519a9feaec" />
 
 
 ## Why this repository exists
